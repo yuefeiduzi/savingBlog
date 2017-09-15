@@ -1,6 +1,6 @@
 ---
 title: 源于疑惑，解于异或
-date: 2017-09-14 12:31:14
+date: 2017-09-15 12:31:14
 tags:  
 	- ^ 
 	- 异或 
@@ -15,6 +15,8 @@ tags:
 >不想划水的学生，不是好学生。<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--鲁迅
 
+
+<!-- more -->
 ### 正文
 &emsp;&emsp;今天看到一条老题目，排序
 
@@ -74,7 +76,7 @@ a⊕b = (¬a ∧ b) ∨ (a ∧¬b)<br>&emsp;&emsp;<span style="color:red">如果
 
 所以就得到A⊕B⊕A=B
 
-	//todo
+	//To be continued
 
 <br>&emsp;&emsp;@2017年9月14日
 
